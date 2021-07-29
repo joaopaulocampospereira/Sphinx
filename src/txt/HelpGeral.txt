@@ -1,0 +1,13 @@
+>help = Mostra essa bagaça aqui.
+>join = Você me convida pra sua conversa. Me reservo o direito de recusar.
+>leave = Caso eu tenha aceitado seu convite por algum milagre, eu saio da sua conversa. Eu nem deveria ter entrado.');
+>play = Você me pede para usar meus dons músicais, mas eu me reservo o direito de te ignorar. Não seja burro e 
+coloque um link do Youtube depois desse sulfixo na mensagem, até porque eu não sou advinha.
+>stop = Eu irei parar de usar meus dons músicais, até porque, eu mereço um descanso.
+sistema = Pode ser que eu te fale o sistema que eu to usando no momento.
+>sdefault ou sd = Só vou tacar os dados, sem frecura.
+>pathfinder ou pf = Vou considerar o sistema de Pathfinder quando eu tacar os dados.
+>callofcthulhu ou coc = Vou considerar o sistema de Call of Cthulhu quando eu tacar os dados.
+>shadowrun ou sr = Vou considerar o sistema de Shadowrun quando eu tacar os dados.
+>d = Eu irei jogar dados considerando as seguintes posições: 
+>d(Quantidade da faces do dado) (Modificardor) (Quantidade de dados).

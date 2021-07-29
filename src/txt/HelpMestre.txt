@@ -1,0 +1,14 @@
+>help = Eu irei lembrar-lo como me dar comandos da melhor forma possivel.
+>join = Eu irei segui-lo para uma conversa.
+>leave = Irei deixar a conversa. Utilize esse comando quando minha presença não for mais necessária.
+>play = Utilizando seguido de um link de algum vídeo exclusivamente do site Youtube, 
+eu irei tentar reproduzir o áudio contido neste link, mas pode acontecer de barrarem minha 
+entrada no site. Se isso acontecer me desculpe, mas não serei capaz de reproduzir o áudio requisitado.');
+>stop = Eu irei parar de reproduzir o áudio.
+>sistema = Eu irei dizer qual sistema eu estou levando em consideração para lançar os dados.
+>sdefault ou sd = Quando eu jogar os dados não vou considerar nenhum sistema.
+>pathfinder ou pf = Eu irei usar o sistema de Pathfinder quando jogar os dados.
+>callofcthulhu ou coc = Eu irei usar o sistema de Call of Cthulhu quando jogar os dados.
+>shadowrun ou sr = Eu irei usar o sistema de Shadowrun quando jogar os dados
+>d = Eu irei jogar um dado considerando as seguintes posições: 
+>d(Quantidade da faces do dado) (Modificardor) (Quantidade de dados).
